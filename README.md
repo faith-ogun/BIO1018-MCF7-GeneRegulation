@@ -90,6 +90,8 @@ The next phase of this project will focus on expanding the neural network’s pr
 - **Data Management:** Keep data organized and backed up in multiple locations.  
 - **Daily Check-ins:** Review progress daily to stay on track and adjust the plan as needed.
 
+You can find Phase Two here:
+
 
 ## Citation
 A foundation model of transcription across human cell types. Nature (2024). https://doi.org/10.1038/s41586-024-08391-z
