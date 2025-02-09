@@ -26,11 +26,10 @@ The project is divided into the following stages:
 ---
 
 ## Directory Structure
-- `data/`: Raw and processed data files.
+- `dataset/`: Raw and unprocessed data files.
 - `notebooks/`: Jupyter notebooks for data exploration.
-- `scripts/`: Python scripts for preprocessing and model training.
-- `models/`: Saved model checkpoints.
-- `results/`: Evaluation results and visualizations.
+
+Please view notebooks to see my process and completed pipeline.
 
 ## How to Run the Project
 a. Clone the repository:
