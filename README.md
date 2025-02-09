@@ -92,6 +92,8 @@ The next phase of this project will focus on expanding the neural network’s pr
 
 You can find Phase Two here:
 
+## Link to Final Dissertation Paper:
+- add once complete
 
 ## Citation
 A foundation model of transcription across human cell types. Nature (2024). https://doi.org/10.1038/s41586-024-08391-z
