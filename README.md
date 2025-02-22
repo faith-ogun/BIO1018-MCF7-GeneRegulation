@@ -90,6 +90,7 @@ The next phase of this project will focus on expanding the neural network’s pr
 - **Daily Check-ins:** Review progress daily to stay on track and adjust the plan as needed.
 
 You can find Phase Two here:
+https://github.com/faith-ogun/BIO1018-Chromatin-Accessibility-ML/tree/main
 
 ## Link to Final Dissertation Paper:
 - add once complete
